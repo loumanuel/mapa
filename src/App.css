@@ -1,0 +1,34 @@
+ body{
+   font-family: candara;
+ }
+ 
+ h1{
+   text-align: center;
+ }
+
+ .contenedor-general{
+   width: 90%;
+   max-width: 1366px;
+ }
+
+ #title{
+  color: rgb(95, 82, 82);
+  padding-bottom: 8px;
+ }
+
+ .has-search .form-control {
+   padding-left: 2.375rem;
+ }
+
+ .has-search .form-control-feedback {
+   position: absolute;
+   z-index: 2;
+   display: block;
+   width: 2.375rem;
+   height: 2.375rem;
+   line-height: 2.375rem;
+   text-align: center;
+   pointer-events: none;
+   color: #aaa;
+ }
+
